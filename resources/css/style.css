@@ -26,7 +26,10 @@ h1 {
     font-size: 21px;
     color: gray;
 }
-#copyright {
+footer {
     color: gray;
     text-align: right;
+}
+#camp {
+    padding-bottom: 1.5em;
 }
