@@ -1,15 +1,32 @@
 body {
     background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 header {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
     color: white;
-    text-align: center;
+}
+h1 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
 }
 .download {
     color: aquamarine;
     font-size: 16px;
-    text-align: center;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.description {
+    font-size: 21px;
+    color: gray;
+}
+#copyright {
+    color: gray;
+    text-align: right;
 }
